@@ -11,7 +11,6 @@
 ! Syntax: AdBlock
 ! Number of entries: 70996
 !
-||roblox.com^
 ||0-xxxv.site^
 ||000-xxx-video.online^
 ||001260.xyz^
