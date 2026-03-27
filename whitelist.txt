@@ -247,4 +247,6 @@ googletagmanager.com
 ||msftconnecttest.com^
 
 bambulab.com
+wiki.bambulab.com
+store.bambulab.com
 ||bambulab.com^
