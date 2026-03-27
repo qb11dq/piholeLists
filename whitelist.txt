@@ -244,3 +244,4 @@ ssl.google-analytics.com
 google-analytics.com
 googletagmanager.com
 ||allkeyshop.com^
+||msftconnecttest.com^
