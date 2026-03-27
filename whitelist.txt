@@ -245,3 +245,6 @@ google-analytics.com
 googletagmanager.com
 ||allkeyshop.com^
 ||msftconnecttest.com^
+
+bambulab.com
+||bambulab.com^
